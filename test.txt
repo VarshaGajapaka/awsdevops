@@ -1,0 +1,2 @@
+Welcome to AWS and DevOps course.
+Here we are learning basics and advanced concepts.
